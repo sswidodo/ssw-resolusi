@@ -1,5 +1,8 @@
 Rencana Konten : 
 1. Modul Pemdas
+    - Semester 1
+    - Semester 2
 2. Modul Web (Front End dan Back End)
 3. Modul Mobile
 4. Modul IOT
+5. Modul Siskom
